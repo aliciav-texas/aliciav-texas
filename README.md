@@ -1,6 +1,7 @@
 <h1 align="center">  👋 Howdy, I'm Alicia!  </h1>
 
 <p align="center">
+<img alt="GoogleDrive" href="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 <img src="READMEimages/Alicia-Headshot.jpeg" alt="LinkedIn" width="100" height="100" align="center">
   <a href="https://www.linkedin.com/in/alicia-villanueva-atx/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
