@@ -1,11 +1,5 @@
 <h1 align="center">  👋 Howdy, I'm Alicia!  </h1>
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1vSTJMDjW7EfFt_IALF-JOQXaMcqloVv5?usp=sharing"><img al/at="GoogleDrive"  src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-
-<img src="READMEimages/Alicia-Headshot.jpeg" alt="LinkedIn" width="100" height="100" align="center">
-  <a href="https://www.linkedin.com/in/alicia-villanueva-atx/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 I am a Full Stack Software Engineer residing in Austin, TX who enjoys building applications that produces a positive impact to her users lives. In my career as an educator, I passionately pursued the best practices, teaching techniques and brought my best self forward to deliver a positive and successful education for my students. Web-development has given me a new medium to continue to satisfy my passion for improving the lives around me in a positive manner. I eagerly embrace challenging problems and developing creative solutions through my applications while learning and implementing new technologies. As I expand and grow as a developer, I hold these passions and experiences dear to me and as a guiding influence in my career. If you are interested in collaborating with a hard-working, enthusiastic and passionate engineer please contact me through LinkedIn or via email.
 
