@@ -1,89 +1,86 @@
-<h1 align="center">  👋 Howdy, I'm Alicia!  </h1>
+<h<h1 align="center">👋 Howdy, I'm Alicia!</h1>
+
+<p align="center">
+  💻 Senior Software Engineer • 🚀 Cloud Enthusiast • 🎯 Impact-Driven Builder<br/>
+  📍 Austin, TX | 🧠 Lifelong Learner | 🤝 Enthusiastic Collaborator<br/>
+  📫 Contact directly for email and resume |
+  <a href="https://linkedin.com/in/alicia-villanueva-atx">LinkedIn</a>
+</p>
+
+<hr/>
+
+<h2>💡 About Me</h2>
+
+<p>
+I'm Alicia — a <strong>Senior Full Stack Software Engineer</strong> who’s passionate about delivering intentful, scalable, and human-centered solutions. I transitioned from public education to tech because I love solving complex problems, championing my end-users, and collaborating with people who care deeply about their work. My background in education has become a pillar of strength in my engineering career—it fuels my enthusiasm for implementing the full SDLC, brings a calm and curious mindset to technical discussions, sparks excitement for learning new technologies, and inspires a genuine passion for sharing knowledge with others.
+</p>
+<p>
+Today, I architect <strong>serverless applications</strong>, design <strong>fault-tolerant systesms</strong>strong, and <strong>lead initiatives</strong>strong that improve speed, accessibility, and performance across platforms. With a foundation in empathy and curiosity, I thrive on creating seamless tech experiences that empower users and energize teams.
+</p>
+
+<h2>🛠️ Technologies</h2>
+
+<h4>💻 Languages & Core</h4>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<h4>🖥️ Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<h4>🧠 AI</h4>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</p>
+
+<h4>🔗 Tools & Integrations</h4>
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DocuSign-FFCC22.svg?style=for-the-badge&logo=docusign&logoColor=black" alt="DocuSign Badge" />
+  <img src="https://img.shields.io/badge/SharePoint-0078d4.svg?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint Badge" />
+</p>
 
 
-I am a Full Stack Software Engineer residing in Austin, TX who enjoys building applications that produces a positive impact to her users lives. In my career as an educator, I passionately pursued the best practices, teaching techniques and brought my best self forward to deliver a positive and successful education for my students. Web-development has given me a new medium to continue to satisfy my passion for improving the lives around me in a positive manner. I eagerly embrace challenging problems and developing creative solutions through my applications while learning and implementing new technologies. As I expand and grow as a developer, I hold these passions and experiences dear to me and as a guiding influence in my career. If you are interested in collaborating with a hard-working, enthusiastic and passionate engineer please contact me through LinkedIn or via email.
+<h4>🔧 Backend / DevOps</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
-# 🚀 Technologies & Tools
+<h4>☁️ Cloud & Infrastructure</h4>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SNS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Step_Functions-FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-232F3E.svg?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-        <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-        <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" />
-        <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend & DevOps</strong></td>
-      <td>
-        <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-        <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-        <img alt="GraphQL" src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
-        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>AWS & Cloud</strong></td>
-      <td>
-        <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-%230079C1.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-        <img alt="SQS" src="https://img.shields.io/badge/SQS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img alt="SNS" src="https://img.shields.io/badge/SNS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img alt="Step Functions" src="https://img.shields.io/badge/Step_Functions-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-        <img alt="Secrets Manager" src="https://img.shields.io/badge/Secrets_Manager-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Testing & Observability</strong></td>
-      <td>
-        <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-        <img alt="DataDog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-        <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-%23323330.svg?style=for-the-badge&logo=puppeteer&logoColor=green"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>
-        <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-        <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Workflow</strong></td>
-      <td>
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-        <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-        <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h4>🧪 Testing & QA</h4>
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DataDog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Puppeteer-333333.svg?style=for-the-badge&logo=puppeteer&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Playwright-45BA63.svg?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chromium-4285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
 
----
+<hr/>
 
-# 🏆 Highlights
-
-- 🧠 **2025 SME Q1 Winner** – Recognized for exceptional onboarding contribution through instructional content  
-- 🤖 **2024 GoodLeap AI/ML Hackathon Winner** – Built an AI service with OpenAI + AstraDB to analyze NPS feedback  
-- 🔐 **2023 Security Guild Challenge Winner** – 1st place in company-wide secure coding competition  
-
----
+<p align="center">Thanks for stopping by! Let’s learn and build something amazing together. 💫</p>
