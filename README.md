@@ -15,8 +15,16 @@
 I'm Alicia — a <strong>Senior Full Stack Software Engineer</strong> who’s passionate about delivering intentful, scalable, and human-centered solutions. I transitioned from public education to tech because I love solving complex problems, championing my end-users, and collaborating with people who care deeply about their work. My background in education has become a pillar of strength in my engineering career—it fuels my enthusiasm for implementing the full SDLC, brings a calm and curious mindset to technical discussions, sparks excitement for learning new technologies, and inspires a genuine passion for sharing knowledge with others.
 </p>
 <p>
-Today, I architect <strong>serverless applications</strong>, design <strong>fault-tolerant systesms</strong>strong, and <strong>lead initiatives</strong>strong that improve speed, accessibility, and performance across platforms. With a foundation in empathy and curiosity, I thrive on creating seamless tech experiences that empower users and energize teams.
+Today, I architect <strong>serverless applications</strong>, design <strong>fault-tolerant systesms</strong>, and <strong>lead initiatives</strong> that improve speed, accessibility, and performance across platforms. With a foundation in empathy and curiosity, I thrive on creating seamless tech experiences that empower users and energize teams.
 </p>
+
+# 🏆 Work Accolades 
+
+- 🧠 **2025 SME Q1 Winner** – Recognized for exceptional onboarding contribution through instructional content  
+- 🤖 **2024 GoodLeap AI/ML Hackathon Winner** – Built an AI service with OpenAI + AstraDB to categorize themes, perform semantic searches, and analyze sentiment for actionable insights. 
+      <i>Chosen from 24 teams to present to the CEO</i>
+- 🔐 **2023 Security Guild Challenge Winner** – 1st place in company-wide secure coding competition challenge
+
 
 <h2>🛠️ Technologies</h2>
 
