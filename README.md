@@ -1,4 +1,4 @@
-<h<h1 align="center">👋 Howdy, I'm Alicia!</h1>
+<h1 align="center">👋 Howdy, I'm Alicia!</h1>
 
 <p align="center">
   💻 Senior Software Engineer • 🚀 Cloud Enthusiast • 🎯 Impact-Driven Builder<br/>
